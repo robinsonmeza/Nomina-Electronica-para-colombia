@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Nómina y Honorarios - Gobernación del Amazonas",
+  "description": "Sistema institucional de liquidación de nómina de planta con Prima Amazonas, cuentas de cobro de contratistas Ley 80, carga masiva Excel/CSV y reportes ejecutivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
